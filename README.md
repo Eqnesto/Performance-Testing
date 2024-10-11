@@ -1,4 +1,4 @@
-# Performance Automation with JMeter
+# Performance Testing
 
 This repository contains automated tests for the [Fake Rest API](https://fakerestapi.azurewebsites.net/index.html) using [JMeter](https://jmeter.apache.org). It includes different test types such as load, volume, and spike tests with assertions. Reports are generated in HTML, showcasing the website's performance under various user loads.
 
