@@ -6,7 +6,7 @@ This repository contains automated tests for the [Fake Rest API](https://fakeres
 
 1. Clone repository:
    ```shell
-   git clone https://github.com/Eqnesto/Project.git
+   git clone https://github.com/Eqnesto/Performance-Testing
    ```
 1. Install [Java SDK](https://www.oracle.com/java/technologies/javase-downloads.html).
 1. Download [JMeter](https://jmeter.apache.org/download_jmeter.cgi) and click `Binaries > apache-jmeter-5.#.#.zip`.
